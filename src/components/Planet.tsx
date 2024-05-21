@@ -12,7 +12,7 @@ const Planet: React.FC<PlanetProps> = ({ planet, onRemove }) => {
       <h2>{planet.name}</h2>
       <img src={planet.image} alt={planet.name} />
       <p>{planet.description}</p>
-      <button onClick={onRemove}>Remove</button>
+      <button onClick={onRemove}>Removeeee</button>
     </div>
   );
 }
