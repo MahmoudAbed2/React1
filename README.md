@@ -1,1 +1,1 @@
-# React1
+# typescript_template

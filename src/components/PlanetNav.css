@@ -1,0 +1,25 @@
+.planet-nav {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+    position: relative;
+  }
+  
+  .planet-nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .planet-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .hovered-planet-name {
+    position: absolute;
+    bottom: -20px;
+    left: 20px;
+    color: yellow;
+  }
+  

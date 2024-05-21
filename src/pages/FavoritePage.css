@@ -1,0 +1,12 @@
+.favorite-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .planet-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,11 @@
+.planet-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .planet-page img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  

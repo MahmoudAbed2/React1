@@ -1,0 +1,22 @@
+.planet {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .planet img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .remove-favorite-button {
+    background-color: #ff4b5c;
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
